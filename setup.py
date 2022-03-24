@@ -6,7 +6,7 @@ LONGS_DESCRIPTION = "model for db"
 
 
 setup(
-    name="askif_db",
+    name="dbapp",
     version=VERSION,
     author="Dali",
     author_email="mohamed.ali.sola@gmail.com",
