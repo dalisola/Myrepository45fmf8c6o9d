@@ -16,8 +16,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         "sqlalchemy-aurora-data-api",
-        "fastapi==0.68.1",
-        "uvicorn==0.15.0",
-        "sqlalchemy==1.4.23"
+        "fastapi",
+        "uvicorn",
+        "sqlalchemy"
     ]
 )
